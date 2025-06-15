@@ -4,8 +4,8 @@ This repo is intended to be used as a reference for furure coding necessities.
 
 ## Tutorial
 Following [this](https://www.youtube.com/watch?v=wxznTygnRfQ) tutorial from Bro Code
-- **TIME:** 0:43:19
-- **LESSON:** Working on random numbers
+- **TIME:** 1:18:31
+- **LESSON:** About to start on some examples of using the code all together
 
 ## Notes
 - So far it seems super similar to C++ or C but with more {}s

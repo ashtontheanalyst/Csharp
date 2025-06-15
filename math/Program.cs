@@ -45,11 +45,24 @@ namespace math
             Console.WriteLine(a);
 
             // Random Numbers ----------------------------------------------------------------------
-            Random random = new Random();       // This generates a random number object
+            // Generates an object from the random class, this allows us to use it's inner funcitons
+            Random random = new Random();
 
-            int num = random.Next(1, 7);        // Rolling a dice, random number 1-6
+            int num = random.Next(1, 7);         // Function from the random class, returns a rand int
+            double some = random.NextDouble();   // Random double between 0.00 and 1.00
 
             Console.WriteLine(num);
+            Console.WriteLine(some);
+
+            // Triangle Hypotenuse -------------------------------------------------------------------
+            Console.WriteLine("Enter the first side of the triangle: ");
+            double side1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Enter the second side of the triangle: ");
+            double side2 = Convert.ToDouble(Console.ReadLine());
+
+            double hypo = Math.Sqrt((Math.Pow(side1, 2)) + (Math.Pow(side2, 2)));
+            Console.WriteLine("The hypotenuse is " + hypo + "cm^2");
         }
     }
 }

@@ -1,0 +1,15 @@
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.AssemblyInfoInputs.cache
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.AssemblyInfo.cs
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.csproj.CoreCompileInputs.cache
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.sourcelink.json
+/home/dementus/code/Csharp/strings/bin/Debug/net9.0/strings
+/home/dementus/code/Csharp/strings/bin/Debug/net9.0/strings.deps.json
+/home/dementus/code/Csharp/strings/bin/Debug/net9.0/strings.runtimeconfig.json
+/home/dementus/code/Csharp/strings/bin/Debug/net9.0/strings.dll
+/home/dementus/code/Csharp/strings/bin/Debug/net9.0/strings.pdb
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.dll
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/refint/strings.dll
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.pdb
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/strings.genruntimeconfig.cache
+/home/dementus/code/Csharp/strings/obj/Debug/net9.0/ref/strings.dll

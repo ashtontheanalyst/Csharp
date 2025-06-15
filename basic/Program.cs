@@ -1,5 +1,6 @@
 ﻿// First we start with basic output and formatting
 // Then we get into basic variables and use cases
+// Typecasting and user input towards the bottom
 using System;
 
 namespace basic
@@ -57,6 +58,18 @@ namespace basic
             Console.WriteLine(c + " is now d: " + d);
 
             Console.WriteLine(b.GetType());     // Shows us the data type of the val
+
+            // User Input ----------------------------------------------------------
+            Console.WriteLine("Tell me your favorite sport: ");
+            string sport = Console.ReadLine();
+
+            // Readline() has to be read in as a string and then we can type cast
+            // for any other vars
+            Console.WriteLine("Tell me your weight: ");
+            int weight = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine(sport + " is my favorite sport too!");
+            Console.WriteLine("So you're " + weight + "lbs.?");
 
             Console.ReadKey();                  // Keeps the program alive till key stroke
         }

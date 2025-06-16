@@ -4,8 +4,8 @@ This repo is intended to be used as a reference for furure coding necessities.
 
 ## Tutorial
 Following [this](https://www.youtube.com/watch?v=wxznTygnRfQ) tutorial from Bro Code
-- **TIME:** 1:18:31
-- **LESSON:** About to start on some examples of using the code all together
+- **TIME:** 1:55:45
+- **LESSON:** About to start methods (C# for functions)
 
 ## Boilerplate C#
 ```sh

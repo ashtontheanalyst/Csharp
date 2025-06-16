@@ -17,6 +17,7 @@ namespace basic
             Console.Write("\nHello Again\n");   // Effectively same as WriteLine()
             Console.WriteLine("\tTAB");         // We still have escape sequences
 
+
             // Variables -----------------------------------------------------------
             // Same as dec and init in C++
             int x;
@@ -43,9 +44,11 @@ namespace basic
             string user = "John";
             Console.WriteLine("Your username is: " + symbol + user + symbol);
 
+
             // Constants, var's that don't change during runtime
             const double pi = 3.14159;
             Console.WriteLine("Pi (" + pi + ") cannot be changed!");
+
 
             // Type Casting --------------------------------------------------------
             double a = 7.1394;
@@ -59,6 +62,7 @@ namespace basic
 
             Console.WriteLine(b.GetType());     // Shows us the data type of the val
 
+
             // User Input ----------------------------------------------------------
             Console.WriteLine("Tell me your favorite sport: ");
             string sport = Console.ReadLine();
@@ -71,7 +75,40 @@ namespace basic
             Console.WriteLine(sport + " is my favorite sport too!");
             Console.WriteLine("So you're " + weight + "lbs.?");
 
-            Console.ReadKey();                  // Keeps the program alive till key stroke
+
+            // Arrays ---------------------------------------------------------------
+            // These have a fixed size, they can't change later
+            string[] cars = { "Civic", "Acura", "Mustang" };
+
+            Console.WriteLine(cars[0]);                 // Get each indexed value in str array
+            cars[1] = "Tesla";                          // Change a value
+
+            for (int i = 0; i < cars.Length; i++)
+            {
+                Console.WriteLine(cars[i]);
+            }
+
+            // Array with declared size
+            Console.Write("Enter the amount of values in the array: ");
+            int count = Convert.ToInt32(Console.ReadLine());
+            string[] bangs = new string[count];
+
+            for (int i = 0; i < bangs.Length; i++)
+            {
+                bangs[i] = "!";
+            }
+            for (int i = 0; i < bangs.Length; i++)
+            {
+                Console.Write(bangs[i]);
+            }
+            Console.WriteLine("");
+
+            // Foreach loop lets you do a simplified for loop to it over each value in order
+            foreach (string bang in bangs)
+            {
+                Console.Write(bang);
+            }
+            Console.WriteLine("");
         }
     }
 }

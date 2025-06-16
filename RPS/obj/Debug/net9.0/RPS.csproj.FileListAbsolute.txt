@@ -1,0 +1,15 @@
+/home/dementus/code/Csharp/RPS/bin/Debug/net9.0/RPS
+/home/dementus/code/Csharp/RPS/bin/Debug/net9.0/RPS.deps.json
+/home/dementus/code/Csharp/RPS/bin/Debug/net9.0/RPS.runtimeconfig.json
+/home/dementus/code/Csharp/RPS/bin/Debug/net9.0/RPS.dll
+/home/dementus/code/Csharp/RPS/bin/Debug/net9.0/RPS.pdb
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.GeneratedMSBuildEditorConfig.editorconfig
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.AssemblyInfoInputs.cache
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.AssemblyInfo.cs
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.csproj.CoreCompileInputs.cache
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.sourcelink.json
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.dll
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/refint/RPS.dll
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.pdb
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/RPS.genruntimeconfig.cache
+/home/dementus/code/Csharp/RPS/obj/Debug/net9.0/ref/RPS.dll

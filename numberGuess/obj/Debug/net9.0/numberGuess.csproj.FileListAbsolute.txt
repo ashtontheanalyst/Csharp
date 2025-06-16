@@ -1,0 +1,15 @@
+/home/dementus/code/Csharp/numberGuess/bin/Debug/net9.0/numberGuess
+/home/dementus/code/Csharp/numberGuess/bin/Debug/net9.0/numberGuess.deps.json
+/home/dementus/code/Csharp/numberGuess/bin/Debug/net9.0/numberGuess.runtimeconfig.json
+/home/dementus/code/Csharp/numberGuess/bin/Debug/net9.0/numberGuess.dll
+/home/dementus/code/Csharp/numberGuess/bin/Debug/net9.0/numberGuess.pdb
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.GeneratedMSBuildEditorConfig.editorconfig
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.AssemblyInfoInputs.cache
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.AssemblyInfo.cs
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.csproj.CoreCompileInputs.cache
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.sourcelink.json
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.dll
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/refint/numberGuess.dll
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.pdb
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/numberGuess.genruntimeconfig.cache
+/home/dementus/code/Csharp/numberGuess/obj/Debug/net9.0/ref/numberGuess.dll

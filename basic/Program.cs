@@ -109,6 +109,16 @@ namespace basic
                 Console.Write(bang);
             }
             Console.WriteLine("");
+
+
+            // Conditional Operator --------------------------------------------------------
+            // Format: (some condition resulting in T/F) ? x : y
+            Console.Write("Enter the temp (*F) outside: ");
+            int temp = Convert.ToInt32(Console.ReadLine());
+
+            string message = (temp > 80) ? "It's warm" : "It ain't warm!";
+            Console.WriteLine(message);
+
         }
     }
 }

@@ -26,6 +26,16 @@ namespace strings
             phone = phone.Replace("-", " ");            // Replace the dashes with a space
 
             Console.WriteLine(phone);
+
+            // String Interpolation ---------------------------------------------------------
+            // This is the same conceptually as an f-string in Python, we just use $ instead of f
+            // You can also use string functions within the {}s
+            string team = "coWBoYs";
+            string city = "DALLAS";
+            string place = "laST";
+
+            Console.Write($"Hopefully the {city.ToLower()} {team.ToUpper()} ");
+            Console.Write($"won't be {place.ToLower()} this year!\n");
         }
     }
 }

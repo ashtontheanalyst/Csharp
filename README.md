@@ -4,8 +4,8 @@ This repo is intended to be used as a reference for furure coding necessities.
 
 ## Tutorial
 Following [this](https://www.youtube.com/watch?v=wxznTygnRfQ) tutorial from Bro Code
-- **TIME:** 2:20:53
-- **LESSON:** About to start 2D arrays
+- **TIME:** 2:50:23
+- I know feel plenty comfortable with the fundementals of the language to start making apps
 
 ## Boilerplate C#
 ```sh

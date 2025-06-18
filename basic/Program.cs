@@ -2,6 +2,7 @@
 // Then we get into basic variables and use cases
 // Typecasting and user input towards the bottom
 using System;
+using System.Runtime.CompilerServices;
 
 namespace basic
 {
@@ -119,6 +120,28 @@ namespace basic
             string message = (temp > 80) ? "It's warm" : "It ain't warm!";
             Console.WriteLine(message);
 
+
+            // Multidimensional Array ------------------------------------------------------
+            string[,] dealership = {{"mustang", "f150", "equinox"},
+                                    {"camaro", "silverado", "blazer"},
+                                    {"challenger", "1500", "300"}};
+
+            dealership[0, 2] = "fiesta";            // Accessing and changing a var (changing equinox)
+
+            foreach (string car in dealership)
+            {
+                Console.WriteLine(car);
+            }
+
+            // The 0 if the first dimension of the array, the 1 is the inner dimesion
+            for (int i = 0; i < dealership.GetLength(0); i++)
+            {
+                for (int j = 0; j < dealership.GetLength(1); j++)
+                {
+                    Console.Write(dealership[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
